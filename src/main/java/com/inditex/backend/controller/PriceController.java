@@ -19,7 +19,7 @@ import com.inditex.backend.services.PricesService;
 @RestController
 public class PriceController {
 
-	////esta es la rama feature/prueba_uiuiu
+	////esta es la rama feature/prueba_cambio en master
 	@Autowired
 	PricesService service;
 
